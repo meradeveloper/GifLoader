@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Custom Alert Dialog builder-->
+    <style name="CustomAlertDialogBuilder" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:background">#FEFEFE</item>
+    </style>
+
+</resources>
