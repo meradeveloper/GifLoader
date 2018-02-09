@@ -14,7 +14,7 @@ import java.io.IOException;
 import pl.droidsonroids.gif.GifDrawable;
 
 /**
- * Created by Localadmin on 2/7/2018.
+ * Created by SumitRawat on 2/7/2018.
  */
 
 public class CustomAlertDialogBuilder extends CustomDialogConfiguration {
